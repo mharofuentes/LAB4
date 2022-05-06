@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 	<meta charset= "UTF-8">
-	<title> Volunteer form</title>
+	<tittle> Volunteer form</tittle>
 	</head>
 	<body>
-	<div style="text-align:center;"> </div>
+	<div style="text-align:center;">
 	<form method="POST" action="http://bloomingdale.sat.iit.edu/kriedan/lab3formscript.php">
 	<fieldset>
 	<legend>My Info:</legend>
@@ -51,7 +51,6 @@
      		 <label for="comments"></label>
      	<label for="comments"></label>
       <textarea id="comments" name="comments_field" placeholder="Comments?" rows="20" cols="20"></textarea>
-	  </div>
 	  <div>
 	  <button type="submit" > Submit </button>
 	  </div>
